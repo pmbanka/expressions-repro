@@ -1,0 +1,6 @@
+#load @"Akka.fsx" 
+#load @"FsPickler.fsx" 
+#load @"FSPowerPack.Core.Community.fsx" 
+#load @"FSPowerPack.Linq.Community.fsx" 
+#load @"System.ValueTuple.fsx" 
+#r "../../../packages/Akka.FSharp/lib/net45/Akka.FSharp.dll" 

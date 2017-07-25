@@ -1,0 +1,6 @@
+#load "System.Collections.csx" 
+#load "System.Resources.ResourceManager.csx" 
+#load "System.Runtime.csx" 
+#load "System.Runtime.Extensions.csx" 
+#r "System" 
+#r "../../../packages/System.Net.WebHeaderCollection/lib/netstandard1.3/System.Net.WebHeaderCollection.dll" 

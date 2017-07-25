@@ -1,0 +1,1 @@
+#r "../../../packages/FSPowerPack.Core.Community/Lib/Net20/FSharp.PowerPack.dll" 

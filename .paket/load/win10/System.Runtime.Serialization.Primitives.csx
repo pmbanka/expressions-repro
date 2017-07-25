@@ -1,0 +1,5 @@
+#load "System.Resources.ResourceManager.csx" 
+#load "System.Runtime.csx" 
+#r "System.Runtime.Serialization" 
+#r "System.Runtime.Serialization" 
+#r "mscorlib" 

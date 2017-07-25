@@ -1,0 +1,7 @@
+#load @"System.Collections.fsx" 
+#load @"System.Diagnostics.Debug.fsx" 
+#load @"System.Resources.ResourceManager.fsx" 
+#load @"System.Runtime.fsx" 
+#load @"System.Threading.fsx" 
+#r "System" 
+#r "../../../packages/System.ObjectModel/lib/netstandard1.3/System.ObjectModel.dll" 

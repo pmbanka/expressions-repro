@@ -1,0 +1,6 @@
+#load "System.Dynamic.Runtime.csx" 
+#load "System.Linq.Expressions.csx" 
+#load "System.ObjectModel.csx" 
+#load "System.Reflection.TypeExtensions.csx" 
+#load "System.Threading.csx" 
+#r "../../../packages/Microsoft.CSharp/lib/netstandard1.3/Microsoft.CSharp.dll" 

@@ -1,0 +1,7 @@
+#r "System.Runtime.Serialization" 
+#r "System.Xml" 
+#r "System.Runtime.Serialization" 
+#r "System.Xml" 
+#r "System.Runtime.Serialization" 
+#r "System.Xml" 
+#r "../../../packages/FsPickler/lib/net35/FsPickler.dll" 
